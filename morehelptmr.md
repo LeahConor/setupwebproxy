@@ -3,7 +3,9 @@ FIRST THO ADD LINK BOT: https://discord.com/oauth2/authorize?client_id=148261484
 
 # 1. 
 cd /srv/GhostTrain-backup
-npm install discord.js
+
+```npm install discord.js```
+
 Create the bot file:
 
 # 2. nano bot.js
