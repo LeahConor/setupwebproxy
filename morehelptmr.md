@@ -60,10 +60,7 @@ ${domain} {
  }
 });
 
-client.login("BOT_TOKEN");
-
-
-# 3. Create service:
+client.login("MTQ4MjYxNDg0MjUwNTQzMzE0OA.GEohgH.1FtHIzJhBz_2q80UdmOG0ivqTb1DXvPOVEQXIk");
 ```
 sudo nano /etc/systemd/system/discordbot.service
 ```
