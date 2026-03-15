@@ -62,8 +62,9 @@ client.login("BOT_TOKEN");
 
 
 # 3. Create service:
-
+```
 sudo nano /etc/systemd/system/discordbot.service
+```
 ```
 ```
 [Unit]
