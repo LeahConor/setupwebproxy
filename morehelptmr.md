@@ -87,6 +87,9 @@ WantedBy=multi-user.target
 # 4. Start it:
 
 sudo systemctl daemon-reload
+
 sudo systemctl enable discordbot
+
 sudo systemctl start discordbot
+
 sudo systemctl reload caddy
