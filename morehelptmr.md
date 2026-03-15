@@ -68,8 +68,6 @@ client.login("BOT_TOKEN");
 sudo nano /etc/systemd/system/discordbot.service
 ```
 ```
-```
-```
 [Unit]
 Description=Discord Management Bot
 After=network.target
