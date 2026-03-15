@@ -8,7 +8,7 @@ Create the bot file:
 
 # 2. nano bot.js
 
-const { Client, GatewayIntentBits } = require("discord.js");
+```const { Client, GatewayIntentBits } = require("discord.js");
 const { exec } = require("child_process");
 
 const client = new Client({
@@ -64,6 +64,7 @@ client.login("BOT_TOKEN");
 # 3. Create service:
 
 sudo nano /etc/systemd/system/discordbot.service
+```
 ```
 [Unit]
 Description=Discord Management Bot
