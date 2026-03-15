@@ -69,6 +69,7 @@ sudo nano /etc/systemd/system/discordbot.service
 ```
 ```
 ```
+```
 [Unit]
 Description=Discord Management Bot
 After=network.target
